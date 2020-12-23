@@ -1,0 +1,4 @@
+org\example\RealServiceApplication$HealthSwitchingHandler.class
+org\example\RealServiceApplication$IsHealthyHandler.class
+org\example\RealServiceApplication.class
+org\example\RealServiceApplication$SubmitDataHandler.class
